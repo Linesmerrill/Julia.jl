@@ -81,7 +81,7 @@
 + [SoftConfidenceWeighted.jl](https://github.com/IshitaTakeshi/SoftConfidenceWeighted.jl) :: Exact Soft Confidence-Weighted Learning.
 + [Strada.jl](https://github.com/pcmoritz/Strada.jl) :: A deep learning library for Julia based on Caffe.
 + [SVMLightLoader.jl](https://github.com/IshitaTakeshi/SVMLightLoader.jl) :: Loader of svmlight / liblinear format files.
-+ [JuliaTakingFittingAPIsSeriously](https://github.com/JuliaTakingFittingAPIsSeriously) :: proof of concept taking the APIs for statistics, machine learning and other infomatics.
++ [JuliaTakingFittingAPIsSeriously](https://github.com/JuliaTakingFittingAPIsSeriously) :: proof of concept taking the APIs for statistics, machine learning and other informatics.
 + [TensorFlow.jl](https://github.com/malmaud/TensorFlow.jl) :: A Julia wrapper for TensorFlow, the open source machine learning framework from Google.
 + [TheDataMustFlow.jl](https://github.com/ExpandingMan/TheDataMustFlow.jl) :: Julia tools for feeding tabular data into machine learning. 
 + [TSVD.jl](https://github.com/andreasnoack/TSVD.jl) :: Truncated singular value decomposition with partial reorthogonalization.
@@ -179,7 +179,7 @@
 + [SpeechBase.jl](https://github.com/r9y9/SpeechBase.jl).
 + [SPTK.jl](https://github.com/r9y9/SPTK.jl) :: A Julia wrapper for the Speech Signal Processing Toolkit (SPTK), based on the modified version of SPTK.
 + [SynthesisFilters.jl](https://github.com/r9y9/SynthesisFilters.jl) :: Speech Synthesis Filters.
-+ [WORLD.jl](https://github.com/r9y9/WORLD.jl) :: A Julia wrapper for WORLD - a high-quality speech analysis, modification and synthesis system. WORLD provides a way to decompose a speech signal into: Fundamental frequency (F0), spectral envelope, excitation signal (or aperiodicy used in TANDEM-STRAIGHT), and re-synthesize a speech signal from these paramters. See here for the original WORLD.
++ [WORLD.jl](https://github.com/r9y9/WORLD.jl) :: A Julia wrapper for WORLD - a high-quality speech analysis, modification and synthesis system. WORLD provides a way to decompose a speech signal into: Fundamental frequency (F0), spectral envelope, excitation signal (or aperiodicy used in TANDEM-STRAIGHT), and re-synthesize a speech signal from these parameters. See here for the original WORLD.
 
 
 ----
@@ -203,7 +203,7 @@
    + An IJulia Notebook [demo of using pre-trained CNN on imagenet to do image classification](http://nbviewer.ipython.org/github/pluskid/Mocha.jl/blob/master/examples/ijulia/ilsvrc12/imagenet-classifier.ipynb).
 
 ## Neural Networks
-+ [ANN.jl](https://github.com/EricChiang/ANN.jl) :: Artifical Neural Networks.
++ [ANN.jl](https://github.com/EricChiang/ANN.jl) :: Artificial Neural Networks.
    + __Resources__
    + Blog post on [Neural networks and a dive into Julia](http://blog.yhathq.com/posts/julia-neural-networks.html)
 + [Boltzmann.jl](https://github.com/dfdx/Boltzmann.jl) :: Restricted Boltzmann Machines and Deep Belief Networks in Julia
